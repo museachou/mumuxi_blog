@@ -1,7 +1,7 @@
 # blog
 
 > 使用vue + iview 完成
-> 地址：http://www.guojp.xyz
+>> 地址：http://www.guojp.xyz
 
 ## Build Setup
 
